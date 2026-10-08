@@ -10,7 +10,7 @@
 
 ## 📊 Business Problem
 
-New York City receives millions of 311 service requests, and the raw export is exactly what an analyst meets in the real world: blank fields, inconsistent text, mixed date formats, and values that can't possibly be right. This project takes the raw file through a full cleaning workflow — 10 techniques, applied in order — to produce an analysis-ready dataset.
+New York City receives millions of 311 service requests, and the raw export is exactly what an analyst meets in the real world: blank fields, inconsistent text, mixed date formats, and values that can't possibly be right. This project takes the raw file through a full cleaning workflow 10 techniques, applied in order to produce an analysis-ready dataset.
 
 The point of this project is the *process*, not just the result. Each technique below is a core data-cleaning skill every data analyst is expected to know.
 
